@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_07d8da0464309b64fc59d3a3759e03d09a13b46a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e15aa286c8330286636330d2bb078962777ab1d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_01eee5a39e11b04016169488b92d4fdd6dfc15e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3578506496942a7e095a291e711e59a37568f159/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3e9e243d6ee360c49f7bb3180432da3d77b25e8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_90be9536b03a840d6096e6fa6329baa3744017f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_96c86e3a518f2f91da6b169b8b6f746c2a1a0aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2242d4c70647b6f229ec92151d0432fd16fefc91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b7546cf1a7b283fe0cc69c8ba97647c5f3af6b1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dd3a0cde1588048c4f633c06f537094ce9201a1">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33e40d0fa544df97a9a8903982f8466a57cc294c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a9535308c4a5016e3728f978d6b1ea445c42ff10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6677dd88165b186fcb492fddaefbe56b1e7d05c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="859f3112d9659804169d2e0a0ef9d370b473cf72">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c066cee05212ac56c017d9d08a072af9730d9f10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_06cc8d18a229d38171bd60fec130dd9b3d77efd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_414cf048d6786746cc4712ed0dc0e40792d8aff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_94232b4b7b47feae824cce3ec7d5b7b8503a3c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Jimike/Desktop/SEG2105/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_06da85dab8e16295fe17a67249988982d53e45a4/classes.dex" />
+    </item>
+
+</items>

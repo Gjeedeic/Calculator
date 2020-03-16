@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="ca.uottawa.calculator.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/resultEdit" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="@string/button_07"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn07"
+                android:onClick="btn07Click" />
+
+            <Button
+                android:text="@string/button_08"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn08"
+                android:onClick="btn08Click" />
+
+            <Button
+                android:text="@string/button_09"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn09"
+                android:onClick="btn09Click" />
+
+            <Button
+                android:text="@string/button_multiply"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btnMultiply"
+                android:onClick="btnMultiplyClick" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="90dp">
+
+            <Button
+                android:text="@string/button_04"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn04"
+                android:onClick="btn04Click" />
+
+            <Button
+                android:text="@string/button_05"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn05"
+                android:onClick="btn05Click" />
+
+            <Button
+                android:text="@string/button_06"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn06"
+                android:onClick="btn06Click" />
+
+            <Button
+                android:text="@string/button_divide"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btnDivide"
+                android:onClick="btnDivideClick" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="90dp">
+
+            <Button
+                android:text="@string/button_01"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn01"
+                android:onClick="btn01Click" />
+
+            <Button
+                android:text="@string/button_02"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn02"
+                android:onClick="btn02Click" />
+
+            <Button
+                android:text="@string/button_03"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btn03"
+                android:onClick="btn03Click" />
+
+            <Button
+                android:text="@string/button_minus"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btnMinus"
+                android:onClick="btnMinusClick" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="90dp">
+
+            <Button
+                android:text="@string/button_c"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btnClear"
+                android:onClick="btnClearClick" />
+
+            <Button
+                android:text="@string/button_00"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/btn00"
+                android:onClick="btn00Click" />
+
+            <Button
+                android:text="@string/button_dot"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btnDot"
+                android:onClick="btnDotClick" />
+
+            <Button
+                android:text="@string/button_add"
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:id="@+id/btnAdd"
+                android:onClick="btnAddClick" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="@string/button_eq"
+                android:layout_width="fill_parent"
+                android:layout_height="70dp"
+                android:id="@+id/btnResult"
+                android:layout_weight="1"
+                android:onClick="btnResultClick" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
